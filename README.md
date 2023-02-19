@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hello, my name is Nataly. I am beginner Python-developer.
+- I am studying to be Python-developer in Yandex.Practicum courses. Also I am studying English. Im going to learn Go.
+- I like math and algorithmic tasks.
+
+My skills:
+- Python
+- Django
+- REST API
+- Docker
