@@ -26,5 +26,5 @@ My skills:
 
 
 To reach me:
-+ 7-916-950-88-44 (whatsapp)  
-@natulishka84 (telegram)  
+- + 7-916-950-88-44 (whatsapp)  
+- @natulishka84 (telegram)  
