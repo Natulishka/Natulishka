@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hello, my name is Nataly. I am beginner Python-developer.
-- I am studying to be Python-developer in Yandex.Practicum courses. Also I am studying English. Im going to learn Go.
-- I like math and algorithmic tasks.
+:wave: Hello, my name is Nataly. I am beginner Python-developer.
+I am studying to be Python-developer in Yandex.Practicum courses. Also I am studying English. Im going to learn Go.
+I like math and algorithmic tasks.
 
 My skills:
 - Python
