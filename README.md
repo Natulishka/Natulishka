@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 :heart: I like math and algorithmic tasks.  
 
 
+
 My skills:
 - Python
 - Django
 - REST API
 - Docker  
+
 
 
 :phone: To reach me:
