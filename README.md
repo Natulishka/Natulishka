@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 :book: I am studying to be Python-developer in Yandex.Practicum courses. Also I am studying English. Im going to learn Go.  
 :heart: I like math and algorithmic tasks.
 
+
 My skills:
 - Python
 - Django
 - REST API
 - Docker
 
+
 To reach me:
 + 7-916-950-88-44 (whatsapp)  
-@natulishka84 (telegram)
+@natulishka84 (telegram)  
