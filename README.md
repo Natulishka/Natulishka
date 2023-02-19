@@ -22,3 +22,7 @@ My skills:
 - Django
 - REST API
 - Docker
+
+To reach me:
++ 7-916-950-88-44 (whatsapp)  
+@natulishka84 (telegram)
