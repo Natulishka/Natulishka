@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-My skills:
+:clipboard: My skills:
 - Python
 - Django
 - REST API
