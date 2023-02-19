@@ -25,6 +25,6 @@ My skills:
 - Docker
 
 
-To reach me:
+:phone: To reach me:
 - Whatsapp +7-916-950-88-44 
 - Telegram @natulishka84 
