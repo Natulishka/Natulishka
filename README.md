@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 
 :phone: To reach me:
-- Whatsapp +7-916-950-88-44 
 - Telegram @natulishka84 
