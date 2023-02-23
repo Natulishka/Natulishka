@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 :phone: You can contact me:
 - Telegram @natulishka84 
+- natulishka84@gmail.com
