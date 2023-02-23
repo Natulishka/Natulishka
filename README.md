@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:wave: Hello, my name is Nataly. I am a beginner Python-developer.  
+:wave: Hello, my name is Nataly. I am a Python-developer.  
 :book: I am studying to be a Python-developer by taking Yandex.Practicum courses. Also I am studying English. I am going to learn Go.  
 :heart: I like math and algorithmic tasks.  
 
