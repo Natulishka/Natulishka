@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 :clipboard: My skills:
 - Python
 - Django
-- REST API
+- Django REST API
 - FastAPI
 - Flask
 - Docker
 - Unittest
 - Pytest
-- Parsing  
+- Parsing (scrapy, bs4)
+- Google Sheets API
 
 
 :phone: You can contact me:
