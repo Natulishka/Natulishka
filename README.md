@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 - Python
 - Django
 - REST API
-- Docker  
+- FastAPI
+- Flask
+- Docker
+- Unittest
+- Pytest
+- Parsing  
 
 
 :phone: You can contact me:
