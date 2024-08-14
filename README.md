@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 :clipboard: My skills:
 - Python
+- Tornado
 - Django
 - Django REST API
 - FastAPI
@@ -32,5 +33,4 @@ Here are some ideas to get you started:
 
 
 :phone: You can contact me:
-- Telegram @natulishka84 
-- natulishka84@gmail.com
+- Telegram @natulishka_sh 
